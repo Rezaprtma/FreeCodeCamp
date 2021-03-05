@@ -1,0 +1,43 @@
+body {
+  background-color: #ffa;
+}
+.header {
+  height: 50px;
+  text-align: center;
+  line-height: center;
+  padding: 30px;
+}
+.header h1 {
+  font-size: 3rem;
+}
+.img-div {
+  display: flex;
+  margin: auto;
+  justify-content: center;
+  margin-top: 100px;
+  align-items: end;
+}
+#img-caption {
+  text-align: center;
+  padding-bottom: 50px;
+}
+#tribute-info {
+  padding-bottom: 50px;
+  text-align: center;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+footer {
+  text-align: center;
+  padding-right: 20%;
+  padding-left: 20%;
+  padding-bottom: 50px;
+}
+
+footer a {
+  text-decoration: none;
+  color: black;
+}
+footer a:hover {
+  color: red;
+}
